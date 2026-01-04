@@ -1,0 +1,13 @@
+{
+  "name": "actividad2",
+  "version": "0.1.0",
+  "main": "run.js",
+  "scripts": {
+    "run": "node run.js",
+    "exp": "node scripts/exp.js || true",
+    "analyze": "node scripts/analyze.js"
+  },
+  "dependencies": {
+    "commander": "^11.1.0"
+  }
+}

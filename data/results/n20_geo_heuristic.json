@@ -1,0 +1,20 @@
+{
+  "algo": "geo_heuristic",
+  "instance": "n20.json",
+  "reps": 5,
+  "time_avg_ms": 0.4,
+  "time_all_ms": [
+    1,
+    0,
+    1,
+    0,
+    0
+  ],
+  "frontier": [
+    {
+      "dist": 61.665469646777076,
+      "risk": 13.083273482338852,
+      "recharges": 0
+    }
+  ]
+}

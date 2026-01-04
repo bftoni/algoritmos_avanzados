@@ -1,0 +1,16 @@
+{
+  "algo": "exact_bb",
+  "instance": "n15.json",
+  "reps": 1,
+  "time_avg_ms": 30000.063166856766,
+  "time_all_ms": [
+    30000.063166856766
+  ],
+  "frontier": [
+    {
+      "dist": 52.533819484823354,
+      "risk": 10.126690974241168,
+      "recharges": 0
+    }
+  ]
+}

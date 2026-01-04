@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="800" viewBox="0 0 800 800" style="background:#fafafa">
+  <g id="polygons"><polygon points="457.1,342.9 571.4,342.9 571.4,228.6 457.1,228.6" fill="rgba(255,0,0,0.15)" stroke="red" stroke-width="1" id="nf-0" />
+<polygon points="228.6,571.4 285.7,571.4 285.7,514.3 228.6,514.3" fill="rgba(255,0,0,0.15)" stroke="red" stroke-width="1" id="nf-1" />
+<polygon points="628.6,171.4 685.7,171.4 685.7,114.3 628.6,114.3" fill="rgba(255,0,0,0.15)" stroke="red" stroke-width="1" id="nf-2" /></g>
+  <g id="nodes"><circle cx="400.0" cy="400.0" r="5" fill="#1f77b4" stroke="#111" stroke-width="1" /><text x="407.0" y="393.0" font-size="12" fill="#111">0</text>
+<circle cx="514.3" cy="171.4" r="5" fill="#ff7f0e" stroke="#111" stroke-width="1" /><text x="521.3" y="164.4" font-size="12" fill="#111">1</text>
+<circle cx="628.6" cy="285.7" r="5" fill="#2ca02c" stroke="#111" stroke-width="1" /><text x="635.6" y="278.7" font-size="12" fill="#111">2</text>
+<circle cx="228.6" cy="228.6" r="5" fill="#ff7f0e" stroke="#111" stroke-width="1" /><text x="235.6" y="221.6" font-size="12" fill="#111">3</text>
+<circle cx="114.3" cy="342.9" r="5" fill="#2ca02c" stroke="#111" stroke-width="1" /><text x="121.3" y="335.9" font-size="12" fill="#111">4</text>
+<circle cx="457.1" cy="628.6" r="5" fill="#ff7f0e" stroke="#111" stroke-width="1" /><text x="464.1" y="621.6" font-size="12" fill="#111">5</text>
+<circle cx="685.7" cy="571.4" r="5" fill="#ff7f0e" stroke="#111" stroke-width="1" /><text x="692.7" y="564.4" font-size="12" fill="#111">6</text>
+<circle cx="171.4" cy="514.3" r="5" fill="#ff7f0e" stroke="#111" stroke-width="1" /><text x="178.4" y="507.3" font-size="12" fill="#111">7</text>
+<circle cx="571.4" cy="57.1" r="5" fill="#2ca02c" stroke="#111" stroke-width="1" /><text x="578.4" y="50.1" font-size="12" fill="#111">8</text>
+<circle cx="342.9" cy="742.9" r="5" fill="#ff7f0e" stroke="#111" stroke-width="1" /><text x="349.9" y="735.9" font-size="12" fill="#111">9</text>
+<circle cx="742.9" cy="342.9" r="5" fill="#ff7f0e" stroke="#111" stroke-width="1" /><text x="749.9" y="335.9" font-size="12" fill="#111">10</text>
+<circle cx="57.1" cy="171.4" r="5" fill="#2ca02c" stroke="#111" stroke-width="1" /><text x="64.1" y="164.4" font-size="12" fill="#111">11</text>
+<circle cx="514.3" cy="685.7" r="5" fill="#ff7f0e" stroke="#111" stroke-width="1" /><text x="521.3" y="678.7" font-size="12" fill="#111">12</text>
+<circle cx="285.7" cy="114.3" r="5" fill="#ff7f0e" stroke="#111" stroke-width="1" /><text x="292.7" y="107.3" font-size="12" fill="#111">13</text>
+<circle cx="628.6" cy="742.9" r="5" fill="#2ca02c" stroke="#111" stroke-width="1" /><text x="635.6" y="735.9" font-size="12" fill="#111">14</text></g>
+  <g id="legend" transform="translate(20,20)">
+    <rect x="0" y="0" width="140" height="70" fill="white" stroke="#ccc" />
+    <circle cx="10" cy="15" r="5" fill="#1f77b4" stroke="#111" stroke-width="1" />
+    <text x="22" y="19" font-size="12">Hub</text>
+    <circle cx="10" cy="35" r="5" fill="#2ca02c" stroke="#111" stroke-width="1" />
+    <text x="22" y="39" font-size="12">Cargador</text>
+    <circle cx="10" cy="55" r="5" fill="#ff7f0e" stroke="#111" stroke-width="1" />
+    <text x="22" y="59" font-size="12">Entrega</text>
+  </g>
+</svg>

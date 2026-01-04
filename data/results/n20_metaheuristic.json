@@ -1,0 +1,20 @@
+{
+  "algo": "metaheuristic",
+  "instance": "n20.json",
+  "reps": 5,
+  "time_avg_ms": 1596.8,
+  "time_all_ms": [
+    929,
+    1193,
+    1033,
+    982,
+    3847
+  ],
+  "frontier": [
+    {
+      "dist": 83.17272986648592,
+      "risk": 14.158636493324295,
+      "recharges": 1
+    }
+  ]
+}

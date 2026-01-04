@@ -1,0 +1,35 @@
+{
+  "battery_capacity": 80,
+  "nodes": [
+    { "id": 0, "type": "hub", "x": 8, "y": 6, "is_charger": true },
+    { "id": 1, "type": "delivery", "x": 10, "y": 10, "is_charger": false },
+    { "id": 2, "type": "delivery", "x": 12, "y": 8, "is_charger": true },
+    { "id": 3, "type": "delivery", "x": 5, "y": 9, "is_charger": false },
+    { "id": 4, "type": "delivery", "x": 3, "y": 7, "is_charger": true },
+    { "id": 5, "type": "delivery", "x": 9, "y": 2, "is_charger": false },
+    { "id": 6, "type": "delivery", "x": 13, "y": 3, "is_charger": false },
+    { "id": 7, "type": "delivery", "x": 4, "y": 4, "is_charger": false },
+    { "id": 8, "type": "delivery", "x": 11, "y": 12, "is_charger": true },
+    { "id": 9, "type": "delivery", "x": 7, "y": 0, "is_charger": false },
+    { "id": 10, "type": "delivery", "x": 14, "y": 7, "is_charger": false },
+    { "id": 11, "type": "delivery", "x": 2, "y": 10, "is_charger": true },
+    { "id": 12, "type": "delivery", "x": 10, "y": 1, "is_charger": false },
+    { "id": 13, "type": "delivery", "x": 6, "y": 11, "is_charger": false },
+    { "id": 14, "type": "delivery", "x": 12, "y": 0, "is_charger": true },
+    { "id": 15, "type": "delivery", "x": 1, "y": 5, "is_charger": false },
+    { "id": 16, "type": "delivery", "x": 15, "y": 9, "is_charger": false },
+    { "id": 17, "type": "delivery", "x": 5, "y": 0, "is_charger": true },
+    { "id": 18, "type": "delivery", "x": 9, "y": 13, "is_charger": false },
+    { "id": 19, "type": "delivery", "x": 14, "y": 1, "is_charger": false },
+    { "id": 20, "type": "delivery", "x": 2, "y": 2, "is_charger": false },
+    { "id": 21, "type": "delivery", "x": 16, "y": 6, "is_charger": true },
+    { "id": 22, "type": "delivery", "x": 0, "y": 8, "is_charger": false },
+    { "id": 23, "type": "delivery", "x": 13, "y": 13, "is_charger": false },
+    { "id": 24, "type": "delivery", "x": 3, "y": 13, "is_charger": true }
+  ],
+  "no_fly": [
+    { "id": "nf1", "vertices": [[9,7],[11,7],[11,9],[9,9]] },
+    { "id": "nf2", "vertices": [[5,3],[6,3],[6,4],[5,4]] },
+    { "id": "nf3", "vertices": [[12,10],[14,10],[14,12],[12,12]] }
+  ]
+}

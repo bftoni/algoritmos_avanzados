@@ -1,0 +1,10 @@
+{
+  "algo": "exact_bb",
+  "instance": "n25.json",
+  "reps": 1,
+  "time_avg_ms": 30000.194916963577,
+  "time_all_ms": [
+    30000.194916963577
+  ],
+  "frontier": []
+}

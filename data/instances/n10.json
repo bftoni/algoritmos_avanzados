@@ -1,0 +1,20 @@
+{
+  "battery_capacity": 40,
+  "nodes": [
+    { "id": 0, "type": "hub", "x": 4, "y": 4, "is_charger": true },
+    { "id": 1, "type": "delivery", "x": 6, "y": 7, "is_charger": true },
+    { "id": 2, "type": "delivery", "x": 8, "y": 5, "is_charger": false },
+    { "id": 3, "type": "delivery", "x": 1, "y": 6, "is_charger": false },
+    { "id": 4, "type": "delivery", "x": 0, "y": 3, "is_charger": true },
+    { "id": 5, "type": "delivery", "x": 5, "y": 0, "is_charger": false },
+    { "id": 6, "type": "delivery", "x": 9, "y": 2, "is_charger": false },
+    { "id": 7, "type": "delivery", "x": 2, "y": 8, "is_charger": false },
+    { "id": 8, "type": "delivery", "x": 7, "y": 9, "is_charger": true },
+    { "id": 9, "type": "delivery", "x": 3, "y": 0, "is_charger": false }
+  ],
+  "no_fly": [
+    { "id": "nf1", "vertices": [[5,5],[6,5],[6,6],[5,6]] },
+    { "id": "nf2", "vertices": [[2,2],[3,2],[3,3],[2,3]] },
+    { "id": "nf3", "vertices": [[7,7],[8,7],[8,8],[7,8]] }
+  ]
+}

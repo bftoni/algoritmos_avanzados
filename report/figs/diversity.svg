@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="400" style="background:#fff">
+  <text x="300" y="20" text-anchor="middle" font-size="16" font-weight="bold">Diversidad de frontera vs N</text>
+  <text x="300" y="390" text-anchor="middle" font-size="14">N (nodos)</text>
+  <text x="15" y="200" text-anchor="middle" font-size="14" transform="rotate(-90 15 200)">Diversidad (dist. media)</text>
+  <path d="M80.0,340.0 L203.3,340.0 L326.7,340.0 L450.0,340.0" stroke="#1f77b4" stroke-width="2" fill="none" />
+<circle cx="80.0" cy="340.0" r="4" fill="#1f77b4" />
+<circle cx="203.3" cy="340.0" r="4" fill="#1f77b4" />
+<circle cx="326.7" cy="340.0" r="4" fill="#1f77b4" />
+<circle cx="450.0" cy="340.0" r="4" fill="#1f77b4" />
+<path d="M80.0,340.0 L203.3,340.0 L326.7,340.0 L450.0,340.0" stroke="#ff7f0e" stroke-width="2" fill="none" />
+<circle cx="80.0" cy="340.0" r="4" fill="#ff7f0e" />
+<circle cx="203.3" cy="340.0" r="4" fill="#ff7f0e" />
+<circle cx="326.7" cy="340.0" r="4" fill="#ff7f0e" />
+<circle cx="450.0" cy="340.0" r="4" fill="#ff7f0e" />
+<path d="M80.0,340.0 L203.3,340.0 L326.7,340.0 L450.0,340.0" stroke="#2ca02c" stroke-width="2" fill="none" />
+<circle cx="80.0" cy="340.0" r="4" fill="#2ca02c" />
+<circle cx="203.3" cy="340.0" r="4" fill="#2ca02c" />
+<circle cx="326.7" cy="340.0" r="4" fill="#2ca02c" />
+<circle cx="450.0" cy="340.0" r="4" fill="#2ca02c" />
+
+  <text x="80" y="360" text-anchor="middle" font-size="12">10</text>
+<text x="203.33333333333331" y="360" text-anchor="middle" font-size="12">15</text>
+<text x="326.66666666666663" y="360" text-anchor="middle" font-size="12">20</text>
+<text x="450" y="360" text-anchor="middle" font-size="12">25</text>
+  <rect x="460" y="60" width="15" height="15" fill="#1f77b4" />
+<text x="480" y="72" font-size="12">exact_bb</text>
+<rect x="460" y="85" width="15" height="15" fill="#ff7f0e" />
+<text x="480" y="97" font-size="12">geo_heuristic</text>
+<rect x="460" y="110" width="15" height="15" fill="#2ca02c" />
+<text x="480" y="122" font-size="12">metaheuristic</text>
+
+</svg>

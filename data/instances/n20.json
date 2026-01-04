@@ -1,0 +1,30 @@
+{
+  "battery_capacity": 70,
+  "nodes": [
+    { "id": 0, "type": "hub", "x": 7, "y": 6, "is_charger": true },
+    { "id": 1, "type": "delivery", "x": 9, "y": 10, "is_charger": false },
+    { "id": 2, "type": "delivery", "x": 11, "y": 8, "is_charger": true },
+    { "id": 3, "type": "delivery", "x": 4, "y": 9, "is_charger": false },
+    { "id": 4, "type": "delivery", "x": 2, "y": 7, "is_charger": true },
+    { "id": 5, "type": "delivery", "x": 8, "y": 2, "is_charger": false },
+    { "id": 6, "type": "delivery", "x": 12, "y": 3, "is_charger": false },
+    { "id": 7, "type": "delivery", "x": 3, "y": 4, "is_charger": false },
+    { "id": 8, "type": "delivery", "x": 10, "y": 12, "is_charger": true },
+    { "id": 9, "type": "delivery", "x": 6, "y": 0, "is_charger": false },
+    { "id": 10, "type": "delivery", "x": 13, "y": 7, "is_charger": false },
+    { "id": 11, "type": "delivery", "x": 1, "y": 10, "is_charger": true },
+    { "id": 12, "type": "delivery", "x": 9, "y": 1, "is_charger": false },
+    { "id": 13, "type": "delivery", "x": 5, "y": 11, "is_charger": false },
+    { "id": 14, "type": "delivery", "x": 11, "y": 0, "is_charger": true },
+    { "id": 15, "type": "delivery", "x": 0, "y": 5, "is_charger": false },
+    { "id": 16, "type": "delivery", "x": 14, "y": 9, "is_charger": false },
+    { "id": 17, "type": "delivery", "x": 4, "y": 0, "is_charger": true },
+    { "id": 18, "type": "delivery", "x": 8, "y": 13, "is_charger": false },
+    { "id": 19, "type": "delivery", "x": 13, "y": 1, "is_charger": false }
+  ],
+  "no_fly": [
+    { "id": "nf1", "vertices": [[8,7],[10,7],[10,9],[8,9]] },
+    { "id": "nf2", "vertices": [[4,3],[5,3],[5,4],[4,4]] },
+    { "id": "nf3", "vertices": [[11,10],[13,10],[13,12],[11,12]] }
+  ]
+}
